@@ -1,0 +1,36 @@
+.heading {
+    font-size: 100px;
+    text-align: center;
+    color: red;
+}
+
+#oreo-text {
+    color: orange;
+    text-align: center;
+
+}
+
+h2 {
+    font-weight: 100;
+    text-align: center;
+    color: yellow;
+    font-family: cursive;
+}
+
+.smol-kitty-container {
+    text-align: center;
+}
+
+.smol-kitty {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.kitty-link-container {
+    text-align: center;
+}
+
+.kitty-link {
+    
+    color: lime;
+}
